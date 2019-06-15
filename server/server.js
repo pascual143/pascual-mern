@@ -15,3 +15,6 @@ app.listen(config.port, (err) => {
   }
   console.info('Server started on port %s.', config.port)
 })
+
+var mongoose = require('mongoose')
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/mern-skeleton')
