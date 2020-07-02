@@ -1,6 +1,7 @@
 # MERN Skeleton
 
-This version was maked for Pascual Vila following the instructions of the book
+This version was maked for Pascual Vila following the instructions of the book and 
+the Live Demo is the original fron the book
 
 ### [Live Demo](http://skeleton.mernbook.com/ "MERN Skeleton")
 
